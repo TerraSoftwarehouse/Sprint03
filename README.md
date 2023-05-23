@@ -1,6 +1,6 @@
 <span id="topo">
 
-<h1 align="center">Sprint 3: // a //</h1>
+<h1 align="center">Sprint 3: 15/05/2023 a 06/06/2023</h1>
 
 <p align="center">
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
@@ -14,6 +14,9 @@
     
 ## :dart: Objetivos da Sprint
 - Os objetivos dessa Sprint são:
+- TF 03 - Avaliação funcionando e gerando certificado
+- TF 05 - conteudo no site
+- Assim como todo o projeto entregue e funcionando, testado, sem erro, e aprovado pelo cliente.     
 
 
 <span id="Resumo do trabalho da equipe">
