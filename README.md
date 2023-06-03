@@ -47,7 +47,7 @@
     
 ## Documentação:
     
--Com o intuito de fornecer informações mais detalhadas acerca do projeto, disponibilizamos uma documentação técnica que contém dados minuciosos sobre os aspectos mais relevantes do desenvolvimento. Essa documentação é um recurso valioso para a equipe técnica e outros stakeholders, pois descreve em profundidade a arquitetura, as tecnologias utilizadas, as funcionalidades implementadas e outros detalhes importantes do projeto.    
+- Com o intuito de fornecer informações mais detalhadas acerca do projeto, disponibilizamos uma documentação do processo que contém os dados e aspectos mais relevantes do desenvolvimento. Essa documentação é um recurso valioso para a equipe técnica e outros stakeholders, pois descreve a arquitetura, as tecnologias utilizadas, as funcionalidades implementadas e outros detalhes importantes do projeto.    
 
 <ul>
 <li><a href="https://github.com/TerraSoftwarehouse/Documentacao/blob/Sprint3/README.md"> <strong>Documentação da Sprint 3</Strong><a/></li>
