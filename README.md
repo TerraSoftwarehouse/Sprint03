@@ -47,7 +47,12 @@
 ## :rocket: Entregas
 
 -Este sprint foi dedicado à entrega do conteúdo, e após estudarmos várias metodologias de ensino, optamos pelo Microlearning devido à sua eficiência em termos de economia de tempo e alto desempenho, que está em linha com os princípios do Scrum. Baseamos três módulos do conteúdo nessa abordagem e também desenvolvemos um conteúdo extra que explica todo o material de forma didática, utilizando exemplos cotidianos. Essa abordagem permite que os alunos que não tenham compreendido totalmente os primeiros módulos ou que prefiram um conteúdo mais aprofundado possam utilizar o quarto módulo.
+    
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/navegacaoDoSiteSprint03.gif" height = 600  />       
 
+-Com o objetivo de democratizar o acesso ao conhecimento, adicionamos botões de áudio e Libras (Língua Brasileira de Sinais) à seção de imagens do site. Essa implementação permitirá que um maior número de pessoas tenha acesso às informações, incluindo aquelas com deficiência auditiva ou que preferem consumir o conteúdo por meio de recursos audiovisuais.
+    
+<img src="" height = 600  />        
 → [Voltar ao topo](#topo)    
     
 <span id="documentação">
