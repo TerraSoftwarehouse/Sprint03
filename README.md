@@ -28,18 +28,25 @@
     
     
     (imagem da Sprint Backlog aqui )
+<img src="" height = 383 width = 1365 />    
     
+- Aprimoramos o método Kanban no sprint anterior com êxito, portanto, optamos por manter a mesma abordagem e replicá-la para o sprint atual.
     
-
-
-
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/kanbanSprint03.png" height = 600  />     
+    
+<li><a href="https://github.com/users/TerraSoftwarehouse/projects/2"> <strong>Visite nosso Kanban clicando aqui</Strong><a/></li>  
+    
+- O gráfico de Burndown também se revelou uma ferramenta eficaz desde o primeiro sprint, portanto, decidimos replicá-la neste sprint devido à sua comprovada eficácia.
+    
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/graficoBurndownSprint03.png" height = 600  />         
+<li><a href="https://onedrive.live.com/edit.aspx?resid=A098266DB33BAECF!114&ithint=file%2cxlsx&authkey=!AHLAn6kIbPIT1Ic"> <strong>Visite o Gráfico de Burndown clicando aqui</Strong><a/></li>  
 → [Voltar ao topo](#topo)
     
 <span id="entregas">
         
 ## :rocket: Entregas
 
-
+-Este sprint foi dedicado à entrega do conteúdo, e após estudarmos várias metodologias de ensino, optamos pelo Microlearning devido à sua eficiência em termos de economia de tempo e alto desempenho, que está em linha com os princípios do Scrum. Baseamos três módulos do conteúdo nessa abordagem e também desenvolvemos um conteúdo extra que explica todo o material de forma didática, utilizando exemplos cotidianos. Essa abordagem permite que os alunos que não tenham compreendido totalmente os primeiros módulos ou que prefiram um conteúdo mais aprofundado possam utilizar o quarto módulo.
 
 → [Voltar ao topo](#topo)    
     
