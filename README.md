@@ -28,7 +28,7 @@
     
     
   
-<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/BacklogSprint03.png" height = 383 width = 1365 />    
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/BacklogSprint03.png" height = 1500>    
     
 - Aprimoramos o método Kanban no sprint anterior com êxito, portanto, optamos por manter a mesma abordagem e replicá-la para o sprint atual.
     
