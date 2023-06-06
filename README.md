@@ -27,8 +27,8 @@
 - Assim como na segunda Sprint fizemos o Planning poker para definirmos o backLog da Sprint, usamos uma metrica ja havia dado certo onde cada tarefa que teve uma dificuldade maior que 8 foi subdividida em tarefas menores para que pudessemos acompanhar o andamento do projeto com mais exatidão, essa tecnica foi aplicada no Backlog com excessão de terefas como Documentação tecnica e possiveis revisões tecnicas da Equipe junto com o P.O.
     
     
-    (imagem da Sprint Backlog aqui )
-<img src="" height = 383 width = 1365 />    
+  
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/BacklogSprint03.png" height = 383 width = 1365 />    
     
 - Aprimoramos o método Kanban no sprint anterior com êxito, portanto, optamos por manter a mesma abordagem e replicá-la para o sprint atual.
     
