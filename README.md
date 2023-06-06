@@ -52,7 +52,16 @@
 
 -Com o objetivo de democratizar o acesso ao conhecimento, adicionamos botões de áudio e Libras (Língua Brasileira de Sinais) à seção de imagens do site. Essa implementação permitirá que um maior número de pessoas tenha acesso às informações, incluindo aquelas com deficiência auditiva ou que preferem consumir o conteúdo por meio de recursos audiovisuais.
     
-<img src="" height = 600  />        
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/acessibilidadeSprint03.gif" height = 600  />     
+    
+-Por fim, realizamos uma avaliação de conteúdo que requer uma nota mínima para ser aprovado. Ao finalizar a avaliação com êxito, é gerado um certificado contendo a nota alcançada e o nome do aluno.
+
+<img src="" height = 600  /> 
+    
+## Links:
+    
+<li><a href="https://treinamento.terrasofthouse.com.br/index.html"> <strong>Site</Strong><a/></li>      
+
 → [Voltar ao topo](#topo)    
     
 <span id="documentação">
