@@ -60,7 +60,8 @@
     
 ## Links:
     
-<li><a href="https://treinamento.terrasofthouse.com.br/index.html"> <strong>Site</Strong><a/></li>      
+<li><a href="https://treinamento.terrasofthouse.com.br/index.html"> <strong>Site do treinamento</Strong><a/></li>      
+<li><a href="https://terrasofthouse.com.br/ "> <strong>Site da equipe Tera</Strong><a/></li>         
 
 → [Voltar ao topo](#topo)    
     
