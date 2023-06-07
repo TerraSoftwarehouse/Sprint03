@@ -56,7 +56,7 @@
     
 -Por fim, realizamos uma avaliação de conteúdo que requer uma nota mínima para ser aprovado. Ao finalizar a avaliação com êxito, é gerado um certificado contendo a nota alcançada e o nome do aluno.
 
-<img src="" height = 600  /> 
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/simuladofinalsprint03.gif" height = 600  /> 
     
 ## Links:
     
